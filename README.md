@@ -3,10 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosandre-dev/)](https://www.linkedin.com/in/carlosandre-dev/)
 
 
-<h1 align="center">
-  <img src ="https://ik.imagekit.io/geek/pexels-kevin-ku-577585__1__7IJX6s8l2.jpg">
-</h1>
-
 <h3> Olá 👋 </h3>
 Meu nome é Carlos André sou funcionário público há 18 anos, atuando na área administrativa e financeira. Sou apaixonado por Desenvolvimento e estou em busca de uma oportunidade para transição de carreira.
 
