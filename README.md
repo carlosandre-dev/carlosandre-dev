@@ -9,8 +9,7 @@ Meu nome é Carlos André sou funcionário público há 18 anos, atuando na áre
 - 💼 Trabalho como Funcionário Público na **[Prefeitura Municipal de Laje](http://laje.ba.gov.br/)**
 - :computer: **Linguagens:** Html, CSS, JavaScript, Java, MySQL, e em busca de aprender muito mais!
 - 🎨 **Ferramentas:** Visual Studio Code, GitHub, Figma, Intellij IDE
-- 📚 **Acadêmico:** Cursando Java do zero ao PRO pela **[Mentorama](https://mentorama.co/)**
-
+- 📚 **Acadêmico:** Cursando Análise e Desenvolvimento de Sistemas **
 ---
 
 [comment]: <> (Copie o link abaixo para utilizar o card GitHub Stats em seu perfil)
