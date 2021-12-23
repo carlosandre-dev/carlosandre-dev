@@ -4,11 +4,12 @@
 
 
 <h3> Olá 👋 </h3>
-Meu nome é Carlos André sou funcionário público há 18 anos, atuando na área administrativa e financeira. Sou apaixonado por Desenvolvimento e estou em busca de uma oportunidade para transição de carreira.
+Meu nome é Carlos André, depois de anos atuando na área administrativa, decidi fazer transição de carreira para seguir outra paixão: a Programação.
+Comecei esse ano (2021) a faculdade de Análise e Desenvolvimento de Sistemas. Em paralelo, realizo cursos e bootcamps voltados para Java.
 
 - 💼 Trabalho como Funcionário Público na **[Prefeitura Municipal de Laje](http://laje.ba.gov.br/)**
-- :computer: **Linguagens:** Html, CSS, JavaScript, Java, MySQL, e em busca de aprender muito mais!
-- 🎨 **Ferramentas:** Visual Studio Code, GitHub, Figma, Intellij IDE
+- :computer: **Linguagens:** Html, CSS, JavaScript, Java 8+, Spring, MySQL, e em busca de aprender muito mais!
+- 🎨 **Ferramentas:** Visual Studio Code, GitHub, Figma, Intellij IDE, Eclipse
 - 📚 **Acadêmico:** Cursando Análise e Desenvolvimento de Sistemas
 ---
 
