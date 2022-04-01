@@ -8,8 +8,8 @@ Meu nome é Carlos André, depois de anos atuando na área administrativa, decid
 Realizo cursos e bootcamps voltados para Java.
 
 - 💼 Trabalho como Funcionário Público na **[Prefeitura Municipal de Laje](http://laje.ba.gov.br/)**
-- :computer: **Linguagens:** Html, CSS, JavaScript, Java 8+, Spring, MySQL, e em busca de aprender muito mais!
-- 🎨 **Ferramentas:** Visual Studio Code, GitHub, Figma, Intellij IDE, Eclipse
+- :computer: **Linguagens:** Java 8+, Spring, MySQL, e em busca de aprender muito mais!
+- 🎨 **Ferramentas:** Visual Studio Code, GitHub, Figma, Intellij IDE, Eclipse, Spring Tools Suite, Android Studio
 ---
 
 [comment]: <> (Copie o link abaixo para utilizar o card GitHub Stats em seu perfil)
