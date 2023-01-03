@@ -16,4 +16,4 @@ Realizo cursos e bootcamps voltados para Java.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=carlosandre-dev)](https://github.com/carlosandre-dev/github-readme-stats)
 
-> :octocat: Meu site http://carlosandre.net/ (em construção)
+> :octocat: Meu site http://carlosandre.dev (em construção)
