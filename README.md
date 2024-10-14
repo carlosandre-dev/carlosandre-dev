@@ -5,11 +5,11 @@
 
 <h3> Olá 👋 </h3>
 Meu nome é Carlos André, depois de anos atuando na área administrativa, decidi fazer transição de carreira para seguir outra paixão: a Programação.
-Realizo cursos e bootcamps voltados para Java e Spring.
+Realizo cursos e bootcamps voltados para Ruby e Rails.
 
 - 💼 Trabalho como Funcionário Público na **[Prefeitura Municipal de Laje](http://laje.ba.gov.br/)**
 - :computer: **Linguagens:** Java 8+, Spring, e em busca de aprender muito mais!
-- 🎨 **Ferramentas:** Visual Studio Code, GitHub, Figma, Intellij IDE, Eclipse
+- 🎨 **Ferramentas:** Visual Studio Code, GitHub, Figma, Intellij IDE, RubyMine
 ---
 
 [comment]: <> (Copie o link abaixo para utilizar o card GitHub Stats em seu perfil)
