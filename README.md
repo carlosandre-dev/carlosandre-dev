@@ -8,7 +8,7 @@ Meu nome é Carlos André, depois de anos atuando na área administrativa, decid
 Realizo cursos e bootcamps voltados para Ruby e Rails.
 
 - 💼 Trabalho como Funcionário Público na **[Prefeitura Municipal de Laje](http://laje.ba.gov.br/)**
-- :computer: **Linguagens:** Java 8+, Spring, e em busca de aprender muito mais!
+- :computer: **Linguagens:** Ruby, Ruby on Rails e em busca de aprender muito mais!
 - 🎨 **Ferramentas:** Visual Studio Code, GitHub, Figma, Intellij IDE, RubyMine
 ---
 
